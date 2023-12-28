@@ -1,0 +1,5 @@
+Tài khoản admin:
+tên tài khoản: admin,  mật khẩu: 0000
+
+Tài khoản người dùng:
+tên tài khoản: khach,  mật khẩu: 0000
